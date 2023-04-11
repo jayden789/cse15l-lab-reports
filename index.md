@@ -10,7 +10,15 @@ The main purpose of this report is to instruct incoming CSE15L students how to l
 * After logging in, you need reset your password. Follow the instruction here [Reset password TUTORIALS](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view)
 
 
-![image2](https://user-images.githubusercontent.com/112384009/230851912-4f571f5a-1f08-4cb7-bb34-52d13fd6283c.jpg). 
+![image2](https://user-images.githubusercontent.com/112384009/231072179-9846b7dc-75c0-4ec9-b702-abde40698ff0.jpg).
+
+* Click on your cse15l account.
+
+![reset-tool](https://user-images.githubusercontent.com/112384009/231072934-afad7e87-fc89-4e66-9452-050e5bad48fc.jpg)
+
+* Then click on ***Global Password Change Tool*** to reset the password.
+* After changing your password, you're all set with the cse15L account! Let's move on install the Visual Studio Code. 
+
 
 
 ### Step 2: Install VSCode
