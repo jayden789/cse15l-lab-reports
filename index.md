@@ -1,3 +1,4 @@
+![StringServer](https://user-images.githubusercontent.com/112384009/233736815-04777cc2-3878-41a3-aa09-d94938d94829.jpg)
 # Lab 1 report: Remote access and FileSystem
 ### Purpose:
 The main purpose of this report is to instruct incoming CSE15L students how to log into a course-specific account ieng6
